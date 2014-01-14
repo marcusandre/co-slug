@@ -1,5 +1,5 @@
 
-# co-slug
+# co-slug [![Build Status](https://travis-ci.org/marcusandre/co-slug.png?branch=master)](https://travis-ci.org/marcusandre/co-slug)
 
   Create a slug with co and generators.
 

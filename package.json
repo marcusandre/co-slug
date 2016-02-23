@@ -12,7 +12,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "slugg": "~0.1.2"
+    "slugg": "~1.0.0"
   },
   "devDependencies": {
     "mocha": "*",

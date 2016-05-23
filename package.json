@@ -15,7 +15,7 @@
     "slugg": "~1.0.0"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "2.5.0",
     "should": "*",
     "co": "~3.0.2"
   },
